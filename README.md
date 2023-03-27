@@ -6,7 +6,7 @@ Package for creating and working with a neuromorphic model for maintaining three
 Please refer to [docs/pose.html](docs/pose.html).
 
 ### Debug Repo
-Extensive debug, eval, plotting, and other supporting code can be found at [github.com/martinschonger/neuropose-debug](https://github.com/martinschonger/neuropose-debug).
+Extensive debug, eval, plotting, and other supporting code can be found at [github.com/martinschonger/neuropose-debug](https://github.com/martinschonger/neuropose-debug) (private due to sensitive information).
 
 ### Example Usage
 How to run the pose network on the Nengo Loihi backend, with velocity input
