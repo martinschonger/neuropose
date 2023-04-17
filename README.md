@@ -2,7 +2,10 @@
 
 Package for creating and working with a neuromorphic model for maintaining three-dimensional pose estimates via attractor dynamics. The representation is updated through neural dynamics according to tangential and angular velocity inputs.
 
-### Documentation
+### Project Report
+This package was created as part of a project titled **Neuromorphic Implementation of a 3D Attractor Network for Maintaining and Updating Multiple Simultaneous Pose Estimates During Path Integration**. The final report is available at [report.pdf](report.pdf).
+
+### Code Documentation
 Please refer to [docs/pose.html](docs/pose.html).
 
 ### Debug Repo
