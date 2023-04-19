@@ -6,7 +6,7 @@ Package for creating and working with a neuromorphic model for maintaining three
 This package was created as part of a project titled **Neuromorphic Implementation of a 3D Attractor Network for Maintaining and Updating Multiple Simultaneous Pose Estimates During Path Integration**. The final report is available at [report.pdf](report.pdf).
 
 ### Code Documentation
-Please refer to [docs/pose.html](docs/pose.html).
+Please refer to [martinschonger.github.io/neuropose/pose](https://martinschonger.github.io/neuropose/pose.html).
 
 ### Debug Repo
 Extensive debug, eval, plotting, and other supporting code can be found at [github.com/martinschonger/neuropose-debug](https://github.com/martinschonger/neuropose-debug) (private due to sensitive information).
