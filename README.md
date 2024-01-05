@@ -113,4 +113,4 @@ Copyright © 2023 Martin Schonger
 This software is licensed under the GPLv3.
 
 The content in [pose/fonts](pose/fonts) is licensed under the GPLv3 with copyright belonging to
-the authors listed in [pose/fonts/AUTHORS](pose/fonts/AUTHORS) and [pose/fonts/CREDITS](pose/fonts/CREDITS).
+the authors listed in [pose/fonts/gnu_freefont/AUTHORS](pose/fonts/gnu_freefont/AUTHORS) and [pose/fonts/gnu_freefont/CREDITS](pose/fonts/gnu_freefont/CREDITS).
